@@ -1,2 +1,2 @@
 # practice
-for learning git 
+for learning git form apna college
